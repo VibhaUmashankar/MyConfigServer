@@ -1,0 +1,5 @@
+discount:
+  percentage:10
+spring:
+  application:
+    name:product-service
